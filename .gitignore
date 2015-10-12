@@ -1,0 +1,10 @@
+CHANGES
+common/
+configure
+defs.mk
+design/
+Makefile
+man/
+mk/
+root/
+
